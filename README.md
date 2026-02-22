@@ -1,1 +1,1 @@
-# SDSD.py
+# Rock, Paper, Scissors.py
